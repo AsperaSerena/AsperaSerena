@@ -1,4 +1,4 @@
-### Hi I'm South Korea Student
+### Hi I'm Korea Student
 <details>
   <summary>about me</summary>
   
@@ -15,5 +15,5 @@
 <details>
 <summary>Github Stats</summary>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsperaSerena&&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsperaSerena&&show_icons=true&theme=tokyonight)
 </details>
