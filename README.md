@@ -11,7 +11,7 @@
   
   - 📮 my email... [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asperaserena@gmail.com)](mailto:asperaserena@gmail.com)
 
-  - [![Discord](https://discord-profile-yong.paring.moe/discord/666456672486817802?)
+  - [![Discord](https://discord-profile-yong/discord/666456672486817802?)
 
 ### Github Stats
 
