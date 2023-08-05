@@ -13,8 +13,8 @@
   
   - 📮 my email... [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asperaserena@gmail.com)](mailto:asperaserena@gmail.com)
 
-  - 
-    
+  - <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>
+
 ### My Stats
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsperaSerena&&show_icons=true&theme=tokyonight)
