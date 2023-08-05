@@ -7,7 +7,7 @@
   
   - ❤ My favorate language is <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   
-  - 📚 I want to learn <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/> and <img src="https://img.shields.io/badge/unrealengine-000000?style=flat-square&logo=unrealengine&logoColor=white"/>
+  - 📚 I want to learn <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/> and <img src="https://img.shields.io/badge/Unreal-000000?style=flat-square&logo=unrealengine&logoColor=white"/>
 
 ### Contact
   
