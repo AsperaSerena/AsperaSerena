@@ -17,7 +17,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsperaSerena&&show_icons=true&theme=tokyonight)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsperaSerena_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&langs_count=4&layout=compact&title_color=70A5FDtext_color=38BDAE)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsperaSerena&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&langs_count=4&layout=compact&title_color=70A5FDtext_color=38BDAE)
   
 
 </details>
