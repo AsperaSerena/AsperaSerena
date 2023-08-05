@@ -13,7 +13,7 @@
   
   - 📮 my email... [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asperaserena@gmail.com)](mailto:asperaserena@gmail.com)
 
-  - 🎮 my account... [<img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>](https://steamcommunity.com/id/yongtaeg/)
+  - 🎮 my... [<img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/>](https://steamcommunity.com/id/yongtaeg/)
 
 ### My Stats
 
