@@ -21,4 +21,4 @@
 
   ﻿![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsperaSerena&langs_count=10&layout=compact&theme=tokyonight)
 
-  ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Aspera_Serena)](https://solved.ac/Aspera_Serena)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Aspera_Serena)](https://solved.ac/Aspera_Serena)
