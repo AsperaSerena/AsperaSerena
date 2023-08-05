@@ -1,4 +1,4 @@
-### <img src = "picture.png" width="100" height="100"> Hi I'm Korea Student
+### <img src = "picture.png" width="50" height="50"> Hi I'm Korea Student
 <details>
   <summary>about me</summary>
   
