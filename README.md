@@ -1,6 +1,7 @@
 ### Hi I'm South Korea Student
 <details>
-  <summary>about me</summary>
+  <summary>about me</summary>\
+  
   - 🏡I live in Seoul, South Korea
   
   - ❤ My favorate language is <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=simpleiconsRust&logoColor=white"/>
