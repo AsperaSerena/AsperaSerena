@@ -20,4 +20,4 @@
 ### My Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsperaSerena&&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsperaSerena&layout=compact&theme=tokyonight)
-[![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aspera_Serena)](https://wakatime.com/@Aspera_Serena) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Aspera_Serena)](https://solved.ac/Aspera_Serena) 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Aspera_Serena)](https://solved.ac/Aspera_Serena) 
