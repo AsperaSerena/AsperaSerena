@@ -26,13 +26,6 @@
       <img src="https://skillicons.dev/icons?i=discord" />
     </a>
   </p>
-
-  <p align="center">
-    <a href="matilto:asperaserena@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" />
-    </a>
-  </p>
-
 </details>
 
 
