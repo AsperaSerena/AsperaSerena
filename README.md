@@ -21,7 +21,11 @@
   </p>
 <details>
   <summary><h1>contact<h1></summary> 
-  접은 내용(ex 소스 코드)
+  <p align="center">
+    <a href="https://www.discord.com/users/724520262787137556">
+      <img src="https://skillicons.dev/icons?i=discord" />
+    </a>
+  </p>
 </details>
 
 </div>
