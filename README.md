@@ -2,7 +2,7 @@
   <h1>MY SKILLS</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,rust,git,github" />
+      <img src="https://skillicons.dev/icons?i=cpp,rust,git,github,latex" />
     </a>
   </p>
 
@@ -26,6 +26,14 @@
       <img src="https://skillicons.dev/icons?i=discord" />
     </a>
   </p>
+
+  <p align="center">
+    <a href="matilto:asperaserena@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
+  </p>
+
 </details>
+
 
 </div>
